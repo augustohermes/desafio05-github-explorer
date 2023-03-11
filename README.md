@@ -17,9 +17,7 @@
 
 Nesse desafio, você irá implementar o GitHub Explorer: 
 
-Um aplicativo que consome a API do GitHub e exibe informações de qualquer repositório público a partir da busca pelo `usuario/nome-do-repositorio`.
-
-Exemplo: `facebook/react`.
+Um aplicativo que consome a API do GitHub e exibe informações de qualquer repositório público a partir da busca pelo `usuario/nome-do-repositorio`. Exemplo: `facebook/react`.
 
 ## ⚙️ Instalação do projeto
 
